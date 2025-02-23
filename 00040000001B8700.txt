@@ -23,6 +23,11 @@ DD000000 00000002
 D0000000 00000000
 {Do NOT use in Creative Mode. | DPad-UP to Activate Flying, DPad-Down to Deactivate Flying. Flying Controls: A = Ascend, B = Descend}
 
+[90° FOV]
+D3000000 00000000
+003CEE80 42B40000
+D2000000 00000000
+
 [Scale Viewport]
 D3000000 00000000
 0011E938 3F800000
